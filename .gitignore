@@ -1,0 +1,7 @@
+# Helper scripts (only game.html matters)
+_*.js
+create_repo.sh
+*.sh
+
+# WorkBuddy data
+.workbuddy/
